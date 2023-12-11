@@ -1,0 +1,25 @@
+
+.answer-table-outer{
+        width:100%;
+        padding: 50px;
+    }
+.answer-table-wrapper{
+    width:100%;
+    align-content: center;
+}
+
+.answer-table-heading{
+    width:100%;
+    text-align: center;
+    color: brown;
+}
+
+.feedbackFormHolder{
+    width:50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top:50px;
+}
+.pp{
+    padding: 15px;
+}
